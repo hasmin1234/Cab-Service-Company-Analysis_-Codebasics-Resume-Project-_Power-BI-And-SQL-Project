@@ -1,3 +1,2 @@
 # Codebasics.io Resume Project #13 
-## Domain
-  Transportation & Mobility 
+DOMAIN  : Transportation & Mobility        FUNCTION : Operations
