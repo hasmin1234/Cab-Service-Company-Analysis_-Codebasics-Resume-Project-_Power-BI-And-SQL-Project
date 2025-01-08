@@ -33,3 +33,11 @@ _5.POWER BI SERVICE_
 ## FILES
 _1.Analysis Report_(LINK)  
 _2. Presentation Video_(LINK)
+
+# Learning Outcomes
+_1. Improved SQL oins aggregations for large datasets._
+_2. Created compelling visual stories using Power BI._
+
+# IMPACT & INSIGHTS  
+_Our analysis revealed that off-season discounts could increase bookings by 25%. 
+An interactive dashboard was created to visualise trends and inform decision-making._
