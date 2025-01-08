@@ -1,5 +1,5 @@
    # Codebasics.io Resume Project #13  
-**GOAL**     :  Providing Insights to Chief of Operations in Transportation Domain  
+**PROVIDING INSIGHTS TO CHIEF OF OPERATIONS IN TRANSPORTATION DOMAIN**  
 **DOMAIN**   :  Transportation & Mobility  
 **FUNCTION** :  Operations
 
