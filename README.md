@@ -21,3 +21,11 @@ _The Objective of this project is to analyze the operational data of Cab Company
 key trends, optimize fleet management and improve overall revenue. By examining ride patterns,peak times 
 and cstomer behaviour, the goal is to recommend data-driven strategies to increase efficiency, reduce downtime 
 and enhance customer satisfaction._
+
+# APPROACH / METHODOLOGY
+_**The project followed a structured approach :**_  
+_1.ETL_  
+_2.DATA CLEANING_  
+_3.EDA_  
+_4.DASHBOARD CREATION_  
+_5.POWER BI SERVICE_
