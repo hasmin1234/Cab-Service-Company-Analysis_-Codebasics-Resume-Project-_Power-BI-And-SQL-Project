@@ -8,3 +8,8 @@ This project tackles real-world data analytics challanges in the **Cab Service I
 By leveraging Power BI and SQL, I derived actionable insights to optimize business goal.  
 This showcases my expertise in **DATA ANALYSIS,VISUALIZATION  AND  
 STORYTELLING**.
+
+ # Project Highlights  
+ **DATASETS :**  
+ **TOOLS USED :** Power BI & SQL  
+ **DELIVERABLES :** Interactive Dashboard, Power BI & SQL insights report, an explanatory video and its pdf. 
