@@ -5,5 +5,6 @@ FUNCTION :  Operations
 
 # Introduction  
 This project tackles real-world data analytics challanges in the cab service industry.  
-By leveraging Power BI and SQL, i derived actionable insights to optimize business goal.  
-This showcases my expertise in data analysis,visualization and storytelling.
+By leveraging Power BI and SQL, I derived actionable insights to optimize business goal.  
+This showcases my expertise in data analysis,visualization and  
+storytelling.
