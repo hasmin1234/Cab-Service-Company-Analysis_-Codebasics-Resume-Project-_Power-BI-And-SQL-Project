@@ -1,18 +1,18 @@
 # Codebasics.io RESUME PROJECT #13  
-**Providing Insights To Chief Of Operations In Transportation Domain**  
+_**Providing Insights To Chief Of Operations In Transportation Domain**  
 **DOMAIN**   :  Transportation & Mobility  
-**FUNCTION** :  Operations
+**FUNCTION** :  Operations_
 
 # INTRODUCTION  
-This project tackles real-world data analytics challanges in the **_Cab Service Company_**.  
+_This project tackles real-world data analytics challanges in the **_Cab Service Company_**.  
 By leveraging Power BI and SQL, I derived actionable insights to optimize business goal.  
 This showcases my expertise in **_DATA ANALYSIS,VISUALIZATION  AND  
-STORYTELLING_**.
+STORYTELLING_**._
 
  # PROJECT HIGHLIGHTS  
- **DATASETS :**  
+ _**DATASETS :**  
  **TOOLS USED :** Power BI & SQL  
- **DELIVERABLES :** Interactive Dashboard, Power BI & SQL insights report, an explanatory video and its pdf. 
+ **DELIVERABLES :** Interactive Dashboard, Power BI & SQL insights report, an explanatory video and its pdf._ 
 
 # PROBLEM STATEMENT
 
