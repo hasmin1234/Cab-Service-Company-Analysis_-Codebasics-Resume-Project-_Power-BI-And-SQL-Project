@@ -4,4 +4,6 @@ DOMAIN   :  Transportation & Mobility
 FUNCTION :  Operations
 
 # Introduction  
-This
+This project tackles real-world data analytics challanges in the cab service industry.  
+By leveraging Power BI and SQL, i derived actionable insights to optimize business goal.  
+This showcases my expertise in data analysis,visualization and storytelling.
