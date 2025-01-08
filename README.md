@@ -29,3 +29,7 @@ _2.DATA CLEANING_
 _3.EDA_  
 _4.DASHBOARD CREATION_  
 _5.POWER BI SERVICE_
+
+## FILES
+_1.Analysis Report_(LINK)  
+_2. Presentation Video_(LINK)
