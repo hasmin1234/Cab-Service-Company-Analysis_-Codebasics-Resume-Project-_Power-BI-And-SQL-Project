@@ -1,4 +1,4 @@
-# Codebasics.io RESUME PROJECT #13  
+Hi# Codebasics.io RESUME PROJECT #13  
 _**Providing Insights To Chief Of Operations In Transportation Domain**  
 **DOMAIN**   :  Transportation & Mobility  
 **FUNCTION** :  Operations_
@@ -11,12 +11,12 @@ STORYTELLING_**._
 
  # PROJECT HIGHLIGHTS  
  _**DATASETS :**  
- dim_city.csv
+ dim_city.csv  
  dim_date.csv  
  dim_repeat_trip_distribution.csv  
  fact_passenger_summary.csv  
  fact_trips.csv
- city_target_passenger_rating.csv  
+ city_target_passenger_rating.csv 
  monthly_target_new_passengers.csv  
  monthly_target_trips.csv  
  **TOOLS USED :** Power BI & SQL  
