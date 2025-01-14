@@ -39,7 +39,7 @@ _4.DASHBOARD CREATION_
 _5.PUBLISHING TO POWER BI SERVICE_
 
 ## FILES
-_1.POWER BI Report_  
+_1.POWER BI Dashboard_  
 _2.Presentation Video_
 _3.PDF Presentation_ 
 _4.SQL Report_
