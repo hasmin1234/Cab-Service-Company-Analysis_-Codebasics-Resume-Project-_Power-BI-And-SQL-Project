@@ -19,6 +19,9 @@ STORYTELLING_**._
  city_target_passenger_rating.csv   
  monthly_target_new_passengers.csv  
  monthly_target_trips.csv  
+ targets_db 
+ trips_db
+ _**FILES :**
  **TOOLS USED :** Power BI & SQL  
  **DELIVERABLES :** Interactive Dashboard, Power BI & SQL insights report, an explanatory video and its pdf._ 
 
@@ -38,13 +41,13 @@ _3.(EXPLORATORY DATA ANALYSIS) EDA_
 _4.DASHBOARD CREATION_  
 _5.PUBLISHING TO POWER BI SERVICE_
 
-## FILES
-_1.POWER BI Dashboard_  
-_2.Presentation Video_
-_3.PDF Presentation_ 
-_4.SQL Report_
+## RERPORTS AND PRESENTATION 
+_1.POWER BI Dashboard_ 
+_2.Presentation Video_ 
+_3.PDF Presentation_  
+_4.SQL Report_ 
 
-# Learning Outcomes
+# LEARNING  OUTCOMES 
 _1. Improved SQL oins aggregations for large datasets._
 _2. Created compelling visual stories using Power BI._
 
