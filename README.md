@@ -28,7 +28,7 @@ STORYTELLING_**._
  [meta_data.txt](https://drive.google.com/file/d/16lbBT_YDcUTajbTKxOI694XP5UONF157/view?usp=drivesdk)  
  [primary_and_secondary_qestions.pdf](https://drive.google.com/file/d/173C8UhIwltiggPgbG_yPDpPE4vbMUM_X/view?usp=drivesdk)   
  [problem_statement.pdf](https://drive.google.com/file/d/176umPeG0lGePy8TetWBUMCMwFEi823XX/view?usp=drivesdk)   
- [Stakeholder Chat_B...Review Meeting.pdf]()  
+ [Stakeholder Chat_B...Review Meeting.pdf](https://drive.google.com/file/d/177a0IbWCLjTgEdpz9E2sh1m8G05NnFwA/view?usp=drivesdk)  
  **TOOLS USED :** Power BI & SQL  
  **DELIVERABLES :** Interactive Dashboard, Power BI & SQL insights report, an explanatory video and its pdf._ 
 
