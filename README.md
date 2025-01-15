@@ -45,9 +45,9 @@ _4.DASHBOARD CREATION_
 _5.PUBLISHING TO POWER BI SERVICE_
 
 ## RERPORTS AND PRESENTATION 
-_1.POWER BI Dashboard_ 
-_2.Presentation Video_ 
-_3.PDF Presentation_  
+_1.POWER BI Dashboard_  
+_2.Presentation Video_   
+_3.PDF Presentation_   
 _4.SQL Report_ 
 
 # LEARNING  OUTCOMES 
