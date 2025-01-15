@@ -23,8 +23,8 @@ STORYTELLING_**._
  targets_db 
  trips_db  
  **FILES :**  
- [ad-hoc-requests.pdf](https://drive.google.com/file/d/16VjP50hI0V8rHCcxks_u8lcsCNnPEQDW/view?usp=drivesdk) 
- [Key_Metrics_For_Dashboard.pdf]() 
+ [ad-hoc-requests.pdf](https://drive.google.com/file/d/16VjP50hI0V8rHCcxks_u8lcsCNnPEQDW/view?usp=drivesdk)   
+ [Key_Metrics_For_Dashboard.pdf](https://drive.google.com/file/d/16YaXbcQkR1q6VmgoHGqiX04av4Gw0G8X/view?usp=drivesdk)   
  [meta_data.txt]() 
  [primary_and_secondary_qestions.pdf]() 
  [problem_statement.pdf]() 
