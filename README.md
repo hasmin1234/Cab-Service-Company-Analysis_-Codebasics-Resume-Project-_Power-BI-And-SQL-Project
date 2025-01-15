@@ -27,7 +27,7 @@ STORYTELLING_**._
  [Key_Metrics_For_Dashboard.pdf](https://drive.google.com/file/d/16YaXbcQkR1q6VmgoHGqiX04av4Gw0G8X/view?usp=drivesdk)   
  [meta_data.txt](https://drive.google.com/file/d/16lbBT_YDcUTajbTKxOI694XP5UONF157/view?usp=drivesdk)  
  [primary_and_secondary_qestions.pdf](https://drive.google.com/file/d/173C8UhIwltiggPgbG_yPDpPE4vbMUM_X/view?usp=drivesdk)   
- [problem_statement.pdf]() 
+ [problem_statement.pdf](https://drive.google.com/file/d/176umPeG0lGePy8TetWBUMCMwFEi823XX/view?usp=drivesdk)   
  [Stakeholder Chat_B...Review Meeting.pdf]()  
  **TOOLS USED :** Power BI & SQL  
  **DELIVERABLES :** Interactive Dashboard, Power BI & SQL insights report, an explanatory video and its pdf._ 
@@ -35,7 +35,7 @@ STORYTELLING_**._
 # PROBLEM STATEMENT  
 _**Goodcabs** a cab service company that provides its services in 10 Tier-2 cities.  
 Goodcabs has set an ambitious performance target for 2024 to drive growth and improve passenger satisfaction.  
-So,the management team aims to company's performance across key metrics.To know more about it, **Click Here**_
+So,the management team aims to company's performance across key metrics.To know more about it, [**Click Here**]()_
 
 # OBJECTIVE
 _The Objective of this project is to analyze the operational data of Cab Company in order to identify 
