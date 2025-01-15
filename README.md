@@ -23,12 +23,12 @@ STORYTELLING_**._
  targets_db 
  trips_db  
  **FILES :**  
- ad-hoc-requests.pdf  
- Key_Metrics_For_Dashboard.pdf  
- meta_data.txt  
- primary_and_secondary_qestions.pdf  
- problem_statement.pdf  
- Stakeholder Chat_B...Review Meeting.pdf   
+ [ad-hoc-requests.pdf]() 
+ [Key_Metrics_For_Dashboard.pdf]() 
+ [meta_data.txt]() 
+ [primary_and_secondary_qestions.pdf]() 
+ [problem_statement.pdf]() 
+ [Stakeholder Chat_B...Review Meeting.pdf]()  
  **TOOLS USED :** Power BI & SQL  
  **DELIVERABLES :** Interactive Dashboard, Power BI & SQL insights report, an explanatory video and its pdf._ 
 
