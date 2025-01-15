@@ -25,7 +25,10 @@ STORYTELLING_**._
  **TOOLS USED :** Power BI & SQL  
  **DELIVERABLES :** Interactive Dashboard, Power BI & SQL insights report, an explanatory video and its pdf._ 
 
-# PROBLEM STATEMENT
+# PROBLEM STATEMENT  
+_**Goodcabs** a cab service company that provides its services in 10 Tier-2 cities.  
+Goodcabs has set an ambitious performance target for 2024 to drive growth and improve passenger satisfaction.  
+So,the management team aims to company's performance across key metrics.To know more about it, **Click Here**_
 
 # OBJECTIVE
 _The Objective of this project is to analyze the operational data of Cab Company in order to identify 
@@ -48,7 +51,7 @@ _3.PDF Presentation_
 _4.SQL Report_ 
 
 # LEARNING  OUTCOMES 
-_1. Improved SQL oins aggregations for large datasets._
+_1. Improved SQL joins aggregations for large datasets._
 _2. Created compelling visual stories using Power BI._
 
 # IMPACT & INSIGHTS  
