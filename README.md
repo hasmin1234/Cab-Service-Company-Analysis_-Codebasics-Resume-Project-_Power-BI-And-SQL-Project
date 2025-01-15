@@ -51,9 +51,9 @@ _3.PDF Presentation_
 _4.SQL Report_ 
 
 # LEARNING  OUTCOMES 
-_1. Improved SQL joins aggregations for large datasets._
+_1. Improved SQL joins aggregations for large datasets._  
 _2. Created compelling visual stories using Power BI._
 
 # IMPACT & INSIGHTS  
-_Our analysis revealed that off-season discounts could increase bookings by 25%. 
+_Our analysis revealed that off-season discounts could increase bookings by 25%.  
 An interactive dashboard was created to visualise trends and inform decision-making._
