@@ -26,7 +26,7 @@ STORYTELLING_**._
  [ad-hoc-requests.pdf](https://drive.google.com/file/d/16VjP50hI0V8rHCcxks_u8lcsCNnPEQDW/view?usp=drivesdk)   
  [Key_Metrics_For_Dashboard.pdf](https://drive.google.com/file/d/16YaXbcQkR1q6VmgoHGqiX04av4Gw0G8X/view?usp=drivesdk)   
  [meta_data.txt](https://drive.google.com/file/d/16lbBT_YDcUTajbTKxOI694XP5UONF157/view?usp=drivesdk)  
- [primary_and_secondary_qestions.pdf]() 
+ [primary_and_secondary_qestions.pdf](https://drive.google.com/file/d/173C8UhIwltiggPgbG_yPDpPE4vbMUM_X/view?usp=drivesdk)   
  [problem_statement.pdf]() 
  [Stakeholder Chat_B...Review Meeting.pdf]()  
  **TOOLS USED :** Power BI & SQL  
