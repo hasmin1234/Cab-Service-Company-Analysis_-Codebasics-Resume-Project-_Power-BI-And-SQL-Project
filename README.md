@@ -20,8 +20,8 @@ STORYTELLING_**._
  monthly_target_new_passengers.csv  
  monthly_target_trips.csv  
  targets_db 
- trips_db
- _**FILES :**  
+ trips_db  
+ **FILES :**  
  **TOOLS USED :** Power BI & SQL  
  **DELIVERABLES :** Interactive Dashboard, Power BI & SQL insights report, an explanatory video and its pdf._ 
 
