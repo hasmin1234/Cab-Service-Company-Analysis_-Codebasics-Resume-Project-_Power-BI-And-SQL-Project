@@ -54,7 +54,7 @@ _5.PUBLISHING TO POWER BI SERVICE_
 ## RERPORTS AND PRESENTATION 
 _1.POWER BI Dashboard_  
 _2.[Presentation Video](https://drive.google.com/file/d/16A8oQG9qwqju-Ogz4EI6gviwUHrz7-eH/view?usp=drivesdk )_   
-_3.[PDF Presentation](https://drive.google.com/file/d/16CIaVUBMriSBvv2jGj4mc9O2tHjkk8ln/view?usp=drivesdk ) _   
+_3.[PDF Presentation](https://drive.google.com/file/d/16CIaVUBMriSBvv2jGj4mc9O2tHjkk8ln/view?usp=drivesdk )_   
 _4.SQL Report_ 
 
 # LEARNING  OUTCOMES 
