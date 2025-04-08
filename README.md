@@ -64,4 +64,4 @@ _2. Created compelling visual stories using Power BI._
 # IMPACT & INSIGHTS  
 _Our analysis revealed that off-season discounts could increase bookings by 25%.  
 An interactive dashboard was created to visualise trends and inform decision-making._
-https://drive.google.com/file/d/15oCd6HndozXKPzX5KkWtcy5dmo6eOVbY/view?usp=drivesdk
+
